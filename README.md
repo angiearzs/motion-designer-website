@@ -3,6 +3,7 @@
 - адаптив;
 - кроссбраузерность;
 - семантика;
+- БЭМ;
 - реализация бургер-меню.
 
 https://angiearzs.github.io/motion-designer-website/
